@@ -1,0 +1,16 @@
+body {
+  min-height: 5000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e3edff;
+}
+
+#about {
+  padding-top: 6rem;
+}
+
+#Prestasi {
+  background-color: #e3edff;
+}
